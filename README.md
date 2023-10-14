@@ -1,4 +1,4 @@
-#Project Title: UBER Stock Prices Prediction Using LSTM + RNN with CNN Architecture and TensorFlow
+Project Title: UBER Stock Prices Prediction Using LSTM + RNN with CNN Architecture and TensorFlow
 
 Introduction:
 
